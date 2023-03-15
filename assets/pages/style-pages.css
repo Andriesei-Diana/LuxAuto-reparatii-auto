@@ -1,0 +1,122 @@
+/* =========PAGINA CONTACT============ */
+
+/* CONTAINERE-PROGRAM-PLUS-DETALII-CONTACT */
+
+.text-details {
+  padding-right: 1em;
+}
+
+.cutii-mici {
+  background-color: var(--primaryColor);
+  padding: 3em;
+  outline: 3px solid var(--secundaryColor);
+}
+
+.personal-img {
+  width: 60%;
+}
+
+.culoare-blue {
+  color: var(--primaryColor);
+}
+
+.cutie-personal {
+  background-color: var(--thirdColor);
+}
+
+/* =============PAGINA DESPRE NOI=========== */
+
+/*  7ANI DE EXPERIENTA  */
+
+.fundal-gri {
+  background-color: var(--thirdColor);
+}
+
+.culoare-rosie {
+  color: var(--secundaryColor);
+}
+
+/*  BANNER  */
+
+.cutie-banner {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(14, 118, 189, 1) 84%,
+    rgba(14, 118, 189, 1) 100%,
+    rgba(14, 118, 189, 1) 100%
+  );
+}
+.text-banner {
+  font-size: 30px;
+  color: var(--fourthColor);
+}
+
+/* ==============PAGINA MECANICA AUTO======= */
+
+/*  Sectiunea stanga-butoane  */
+
+.cutie-butoane {
+  background-color: var(--thirdColor);
+}
+
+.butoane-stanga {
+  background-color: var(--thirdColor);
+}
+
+.butoane-stanga a {
+  text-decoration: none;
+  color: var(--fiveColor);
+}
+
+.butoane-stanga:hover {
+  background-color: var(--secundaryColor);
+}
+
+.butoane-stanga a:hover {
+  color: var(--fourthColor);
+}
+
+.cutie-stanga-slogan {
+  background-color: var(--primaryColor);
+  color: var(--fourthColor);
+}
+
+.cutie-stanga-program {
+  border: 3px solid var(--primaryColor);
+}
+
+.cutie-butoane,
+.cutie-stanga-slogan,
+.cutie-stanga-program {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+/*  Sectiune dreapta  */
+
+.semn-lista-blue {
+  color: var(--primaryColor);
+  padding-right: 5px;
+  font-size: 1.3em;
+}
+
+/*  Slide branduri auto  */
+
+/* ===========PAGINA CONSTATARI DAUNE====== */
+
+/*  Buton programare  */
+
+.buton-programeaza-te {
+  background-color: var(--secundaryColor);
+  width: 100%;
+}
+
+.buton-programeaza-te a {
+  text-decoration: none;
+  color: var(--fourthColor);
+}
+
+.buton-programeaza-te:hover {
+  background-color: var(--primaryColor);
+}
